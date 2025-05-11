@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868507724822",
+    "project_id": "flutlab-realstate",
+    "storage_bucket": "flutlab-realstate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868507724822:android:d6ca3626c9256b3eda5937",
+        "android_client_info": {
+          "package_name": "com.flutlab.realstate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUzjzMyAoG9LkOBfiCllX7GSSkmkJCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
